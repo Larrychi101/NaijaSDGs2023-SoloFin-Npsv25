@@ -9,5 +9,5 @@ A customized co-pilot offering bespoke financial advice
 
 # Our Whys?
 - Access to financial services and tailored solutions can stimulate entrepreneurship and innovation
-- By empowering individuals through tailored financial journeys, we can drive economic growth and stimulate entrepreneurship and innovation
+- By empowering individuals through tailored financial journeys, we can drive economic growth 
   
