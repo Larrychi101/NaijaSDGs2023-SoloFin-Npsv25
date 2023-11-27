@@ -1,2 +1,8 @@
 # NaijaSDGs2023-SoloFin
-Empowering your financial journey with AI. Our platform analyzes your finances, providing personalized, data-driven advice for effective money management. Simplify decision-making and achieve your financial goals with our smart, user-friendly solution.
+Generative AI For a Tailored Financial Journey
+
+# Problem
+Many individuals struggle with understanding complex financial systems, finding reliable information and receiving personalized financial advice, which leads to a lack of financial literacy and inclusion​
+
+# Solution
+A customized co-pilot offering bespoke financial advice
