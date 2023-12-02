@@ -1,4 +1,4 @@
-# NaijaSDGs2023-SoloFin
+# NaijaSDGs2023-SoloFin-Npsv25
 Generative AI For a Tailored Financial Journey
 
 # Problem
